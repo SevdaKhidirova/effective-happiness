@@ -1,0 +1,10 @@
+input{
+    padding-left: 100px;
+    position: relative;
+}
+*{
+    font-size: 15px;
+}
+textarea{
+    display: block;
+}

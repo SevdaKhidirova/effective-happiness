@@ -1,0 +1,14 @@
+*{
+    min-height: 100%;
+}
+html{
+    background-image: url(https://wallpaperaccess.com/full/1156701.jpg); 
+    background-size: cover; 
+}
+p{
+    font-family: 'Ms Madi', cursive;
+    color: wheat;
+    font-size: 30px;
+    padding-top: 20%;
+
+}
